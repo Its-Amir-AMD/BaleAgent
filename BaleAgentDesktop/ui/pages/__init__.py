@@ -1,0 +1,1 @@
+"""Individually maintained application pages."""
